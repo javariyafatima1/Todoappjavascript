@@ -1,0 +1,63 @@
+
+.btn{
+    background-color: rgb(255, 255, 255);
+    color: rgb(3, 141, 10);
+    margin-left: 10px;
+    font-size: 20px;
+}
+button{
+    width: 100px;
+height: 50px;
+color: black;
+}
+body{
+  background-image: url(https://images.pexels.com/photos/733857/pexels-photo-733857.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+  background-repeat: no-repeat;
+background-size: cover;
+ 
+  
+}
+h1{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 60px;
+
+}
+.contaner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contaner button{
+   margin-left: 30px;
+   background-color: green;
+   color: white;
+   margin-top: 50px;
+}
+.contaner input{
+    margin-left: 30px;
+    height: 50px;
+    border-radius: 20px;
+    width: 200px;
+    
+    margin-top: 50px;
+ }
+ #list{
+   
+    justify-content: center;
+    align-items: center;
+   
+    margin-left: 30px;
+    background-color: green;
+    color: white;
+    width: 450px;
+    margin-left:450px;
+    margin-top: 50px;
+ }
+ .li{
+    color: white;
+    list-style: none;
+    font-size: 30px;
+  
+ }
